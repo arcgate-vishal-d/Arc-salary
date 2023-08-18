@@ -8,9 +8,6 @@ set this version as global
 
         python3 -m pip install --user virtualenv
 
-## Create virtual enviorment 
-
-        make env
         
 ## Activate virtual enviorment
 
